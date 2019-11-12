@@ -1,0 +1,15 @@
+Interest of content : Outstanding
+
+Consistency and quality of visual presentation : Outstanding
+
+Quality of written presentation : Outstanding
+
+Validity of HTML : Outstanding
+clean-blog.css:
+line 143:Also define the standard property 'backface-visibility' for compatibilitycss(vendorPrefix)
+line 350:Property is ignored due to the display. With 'display: block', vertical-align should not be used.css(propertyIgnoredDueToDisplay)
+line 351:Property is ignored due to the display. With 'display: block', vertical-align should not be used.css(propertyIgnoredDueToDisplay)
+
+clean-blog.min.css:same errors
+
+Evidence of collaboration : Perfect
